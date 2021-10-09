@@ -1,6 +1,6 @@
 # Advent of Code Solutions
 
-These are my solutions to Advent of Code (2015-2021)
+These are my solutions to [Advent of Code (2015-2021)](https://adventofcode.com/2021/events)
 
 ## Project Status 
 Ongoing. The puzzles are not easy but eventually, I'll get them all done. 
